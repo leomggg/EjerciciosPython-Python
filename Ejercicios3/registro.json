@@ -1,0 +1,36 @@
+[
+    {
+        "tipo": "Gerente",
+        "nombre": "Ana García",
+        "edad": 45,
+        "departamento": "Ventas",
+        "equipo": 12
+    },
+    {
+        "tipo": "Desarrollador",
+        "nombre": "Carlos Pérez",
+        "edad": 29,
+        "departamento": "Tecnología",
+        "lenguaje": "Python"
+    },
+    {
+        "tipo": "Empleado",
+        "nombre": "Lucía Méndez",
+        "edad": 34,
+        "departamento": "Recursos Humanos"
+    },
+    {
+        "tipo": "Desarrollador",
+        "nombre": "Javier Ruiz",
+        "edad": 25,
+        "departamento": "Tecnología",
+        "lenguaje": "Java"
+    },
+    {
+        "tipo": "Gerente",
+        "nombre": "Roberto Díaz",
+        "edad": 50,
+        "departamento": "Operaciones",
+        "equipo": 25
+    }
+]
