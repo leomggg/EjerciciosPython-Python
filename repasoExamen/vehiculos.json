@@ -1,0 +1,65 @@
+[
+     {
+          "tipo": "auto",
+          "marca": "Toyota",
+          "modelo": "Corolla",
+          "ano": 2020,
+          "numPuertas": 4
+     },
+     {
+          "tipo": "auto",
+          "marca": "Honda",
+          "modelo": "Civic",
+          "ano": 2018,
+          "numPuertas": 4
+     },
+     {
+          "tipo": "auto",
+          "marca": "Ford",
+          "modelo": "Focus",
+          "ano": 2017,
+          "numPuertas": 5
+     },
+     {
+          "tipo": "auto",
+          "marca": "Chevrolet",
+          "modelo": "Malibu",
+          "ano": 2019,
+          "numPuertas": 4
+     },
+     {
+          "tipo": "auto",
+          "marca": "Nissan",
+          "modelo": "Sentra",
+          "ano": 2021,
+          "numPuertas": 4
+     },
+     {
+          "tipo": "motocicleta",
+          "marca": "Yamaha",
+          "modelo": "MT-07",
+          "ano": 2019,
+          "cilindraje": 689
+     },
+     {
+          "tipo": "motocicleta",
+          "marca": "Kawasaki",
+          "modelo": "Ninja 400",
+          "anio": 2021,
+          "cilindraje": 399
+     },
+     {
+          "tipo": "motocicleta",
+          "marca": "yamaha",
+          "modelo": "jogg r",
+          "ano": 2003,
+          "cilindraje": 49
+     },
+     {
+          "tipo": "auto",
+          "marca": "citroen",
+          "modelo": "c3",
+          "ano": 2009,
+          "numPuertas": 4
+     }
+]
