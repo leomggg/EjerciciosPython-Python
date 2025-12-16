@@ -1,0 +1,32 @@
+[
+     {
+          "nombre": "Maria Lopez",
+          "puesto": "Gerente",
+          "salario": 2500,
+          "antiguedad": 12,
+          "ventas": []
+     },
+     {
+          "nombre": "Carlos Ruiz",
+          "puesto": "Comercial",
+          "salario": 1100,
+          "antiguedad": 3,
+          "ventas": [
+               500,
+               120,
+               300,
+               50
+          ]
+     },
+     {
+          "nombre": "jose",
+          "puesto": "director",
+          "salario": 1500.0,
+          "antiguedad": 6,
+          "ventas": [
+               300,
+               200,
+               100
+          ]
+     }
+]
